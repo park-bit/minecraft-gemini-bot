@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gemini Minecraft Bot - Terminal Edition
 
 This project is a sophisticated, AI-powered Minecraft bot that you control entirely from your terminal. It uses Mineflayer to interact with the game world and Google's Gemini API to make intelligent, human-like decisions.
@@ -53,3 +54,7 @@ npm start
 ### 5. Interacting with the Bot
 
 Once the bot has spawned, you can type commands directly into the terminal and press Enter. You can talk to it naturally or give it specific instructions like "gather 10 oak logs", "craft a wooden pickaxe", or "attack the zombie". Enjoy your new, intelligent Minecraft companion!
+=======
+# minecraft-gemini-bot
+A gemini based minecraft bot using mineflyer and googleai....
+>>>>>>> 28a388693f5fc397ba5718afa6736cd8881a9bf9
